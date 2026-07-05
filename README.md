@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanika</h1>
-<h3 align="center">A passionate Computer Science Engineer from India</h3>
+<h3 align="center">Aspiring Data Analyst | Data Science Enthusiast | SQL | Python | Excel | Power BI from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanikap712&label=Profile%20views&color=0e75b6&style=flat" alt="sanikap712" /> </p>
 
