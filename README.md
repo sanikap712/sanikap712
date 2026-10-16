@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanikap712" alt="sanikap712" /></a> </p>
 
-- 🔭 I’m currently Doing Intership In **Android app development**
+- 🔭 I’m currently Doing Intership In **Data Analyst Intern**
 
-- 🌱 I’m currently learning **Android development**
+- 🌱 I’m currently learning **Data Analytics & Dashboarding**
 
-- 👯 I’m looking to collaborate on **ADCET**
+- 👯 I’m looking to collaborate on **Data Analytics & Visualization Projects**
 
-- 💬 Ask me about **Python,Java,Cloud Computing**
+- 💬 Ask me about **Excel,MySQL,Power-BI,Tableau,Python**
 
 - 📫 How to reach me **sanikap043@gmail.com**
 
